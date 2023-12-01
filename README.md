@@ -16,7 +16,6 @@ Machine Learning Prediction: Employs machine learning algorithms to forecast sto
 
 Investment Insights: Provides insights into potential stock investments based on model predictions.
 
-
 ## Data Preprocessing
 
 In this stage, we've performed the following data preprocessing steps:
@@ -44,13 +43,14 @@ You can install these dependencies using `pip install -r requirements.txt`.
 
 ## Results
 
-While the focus of this phase was data preprocessing, initial data analysis and visualizations was conducted. 
+While the focus of this phase was data preprocessing, initial data analysis and visualizations was conducted.
 
 Among the findings, the most prominent linear correlation observed was -0.51, which signifies a weak negative linear relationship between two of the features (earnings yield and P/E ratio). Additionally, a mode value of 20 for the P/E ratio was identified, a characteristic often associated with overvaluation in line with Benjamin Graham's principles from _The Intelligent Investor_.
 
 ## Next Steps
 
 The next steps in this project include:
+
 - Feature selection
 - Building and training machine learning models.
 - Evaluating model performance using appropriate metrics.
